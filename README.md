@@ -1,5 +1,5 @@
 # nflcteprev
-This repository contains the main code and summary level data used in the bias-adjusted NFL CTE prevalence paper published by Boston University in 2026.
+This repository contains the main code and summary level data used in the bias-adjusted NFL CTE prevalence paper published by Boston University in October, 2026.
 
 "Main functions.R" contains R code with three custom functions used to create the results in this paper. Most crucially, the "sratio" function calculates the selection ratios that form the basis of these analyses. All three functions are commented in detail in the program.
 
